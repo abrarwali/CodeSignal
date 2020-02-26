@@ -1,2 +1,3 @@
 # CodeSignal
-The Solutions to Codefights (now CodeSignal) problems.
+(Formerly CodeFights)
+Problems from Arcade, Challenges and battles against Bots with my solutions in Python.
